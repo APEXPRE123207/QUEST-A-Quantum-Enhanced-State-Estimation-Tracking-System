@@ -1,0 +1,13 @@
+conda deactivate
+conda activate missile
+cd W:\CODE\Somehting\VIBE\6_Missile - Attempt_2
+w:
+cls
+
+STEP1_Training
+STEP2_Ctpf_view
+python STEP3_qctpf.py
+STEP4_High_maneuver
+python STEP5_train_qneat_dz.py
+tensorboard --logdir=runs
+

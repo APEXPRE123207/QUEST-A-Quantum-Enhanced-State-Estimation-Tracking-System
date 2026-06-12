@@ -1,0 +1,13 @@
+conda deactivate
+conda activate missile
+cd w:/CODE/Somehting/VIBE/6_Missile_Qoder
+w:
+cls
+
+STEP1_Training
+STEP2_Ctpf_view
+STEP3_qctpf
+STEP4_High_maneuver
+STEP5_train_qoder_high_g
+tensorboard --logdir=runs
+

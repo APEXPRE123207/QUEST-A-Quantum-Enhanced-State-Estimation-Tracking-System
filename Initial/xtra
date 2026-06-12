@@ -1,0 +1,29 @@
+quantum_guidance/
+│
+├── simulation/
+│   ├── __init__.py
+│   ├── target_dynamics.py
+│   └── sensor_model.py
+│
+├── quantum_core/
+│   ├── __init__.py
+│   ├── nqpf.py
+│   ├── qneat.py
+│   └── qaoa.py
+│
+├── analysis/
+│   └── plot_results.py
+│
+├── main_simulation.py
+└── config.py
+
+
+
+conda deactivate
+conda activate missile
+cd w:/CODE/Somehting/6_Missile
+w:
+cls
+
+tensorboard --logdir=runs
+

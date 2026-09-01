@@ -22,6 +22,14 @@ First, sacrifice a classical computer to the Quantum Gods. Then:
 3. Run the scripts (e.g., `STEP1_Training.py`). 
 4. If it crashes, it just means you looked at it and collapsed the wave function incorrectly. Try *not* observing the monitor next time.
 
+## Architecture Diagram 🏗️
+![Architecture Diagram](arch_page-0001.jpg)
+
+## Demonstration 🎥
+A full demonstration video is included in the repository:
+
+[Soumyadip_Patent_demonstration.mp4](demonstration/Soumyadip_Patent_demonstration.mp4)
+
 ## Disclaimer ⚠️
 If this code accidentally gains sentience, starts calculating the exact moment of your demise, or causes a localized space-time distortion, that's entirely on you. The developers take zero responsibility for any quantum tunneling events that result in your coffee teleporting across the room or missiles achieving self-awareness.
 
@@ -29,10 +37,10 @@ If this code accidentally gains sentience, starts calculating the exact moment o
 ## This paper was presented in IEEE SPACE 2026 under the title: "Quantum-Evolved Motion Priors in Particle-Based Missile Guidance"
 
 - 📄 [Paper PDF: 1571258357_final.pdf](1571258357%20final.pdf)  
-- 📊 [Presentation Slides: 1571258357_Chakrabarti.pdf](1571258357_Chakrabarti.pdf)
+- 📊 [Presentation Slides: 1571258357_Chakrabarti.pdf](1571258357_Chakrabarti.pdf)  
+- 🔖 Patent Application Number: **202641045090**
 
 ## Link: *Will be added as soon as its published on IEEE Xplore*
-
 
 
 *Built with ❤️, ⚛️, and a lot of caffeine.*

@@ -26,7 +26,13 @@ First, sacrifice a classical computer to the Quantum Gods. Then:
 If this code accidentally gains sentience, starts calculating the exact moment of your demise, or causes a localized space-time distortion, that's entirely on you. The developers take zero responsibility for any quantum tunneling events that result in your coffee teleporting across the room or missiles achieving self-awareness.
 
 
-## This paper was presented in IEEE SPACE 2026 under the title: "Quantum-Evolved Motion Priors in Particle-Based Missile Guidance" [1571258357_final.pdf] (1571258357_final.pdf), [1571258357_Chakrabarti.pdf](1571258357_Chakrabarti.pdf)
-## Link: [Will be added as soon as its published on IEEE Xplore]
+## This paper was presented in IEEE SPACE 2026 under the title: "Quantum-Evolved Motion Priors in Particle-Based Missile Guidance"
+
+- 📄 [Paper PDF: 1571258357_final.pdf](1571258357%20final.pdf)  
+- 📊 [Presentation Slides: 1571258357_Chakrabarti.pdf](1571258357_Chakrabarti.pdf)
+
+## Link: *Will be added as soon as its published on IEEE Xplore*
+
+
 
 *Built with ❤️, ⚛️, and a lot of caffeine.*
